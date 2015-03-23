@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PlaceMarks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">Vero!</string>
+    <string name="false_button">Falso!</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Oh no! Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="question_oceans">Oceano pacifico</string>
+    <string name="question_midest">questiod mideast</string>
+    <string name="question_canals">question canals</string>
+    <string name="question_pavia">questions on pavia</string>
+</resources>
