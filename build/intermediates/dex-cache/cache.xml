@@ -9,13 +9,6 @@
         <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/pre-dexed/release/classes-16ff753557761b55b9ccd53bae7de1bfe7e09c37.jar" />
     </item>
     <item
-        jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
-        <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/pre-dexed/debug/classes-5998f48e3fba5adef09f685743a5f87ac539d35a.jar" />
-    </item>
-    <item
         jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -23,11 +16,81 @@
         <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/pre-dexed/release/classes-05c58a090ea16ba9e3f589b8611798102bf3994a.jar" />
     </item>
     <item
+        jar="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/pre-dexed/release/classes-246e65004abce9d4c3a1c0e016f11b4c95656588.jar" />
+    </item>
+    <item
         jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
         <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/pre-dexed/release/classes-77b38fa4d5966af018052a8f67e368c5e3b8f4cf.jar" />
+    </item>
+    <item
+        jar="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/pre-dexed/release/classes-0fc45dd954b9d1cb518eac489a8b85fe6c822955.jar" />
+    </item>
+    <item
+        jar="/Users/fede/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-beb498db2dea82b98dafc6f82c97bc57383250f3.jar" />
+    </item>
+    <item
+        jar="/Users/fede/fedeGit/Android_Sample/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-3ac7d440e9da33c36f11e7612c50c5eeb88f1aac.jar" />
+    </item>
+    <item
+        jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/pre-dexed/release/classes-82e5754cd29e42d1471815cfcb13ec08d07ff254.jar" />
+    </item>
+    <item
+        jar="/Users/fede/fedeGit/Android_Sample/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/mobile/build/intermediates/pre-dexed/debug/classes-2770928c9a810ff1500198d4c6ae0753069462b0.jar" />
+    </item>
+    <item
+        jar="/Users/fede/fedeGit/Android_Sample/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/mobile/build/intermediates/pre-dexed/debug/classes-02d21796f3b054f1731f129933f15200a5a5a0a5.jar" />
+    </item>
+    <item
+        jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/pre-dexed/debug/classes-f3fdcf6aaf8ed921ba7f110f43781d7af9f23c0f.jar" />
+    </item>
+    <item
+        jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/pre-dexed/debug/classes-5998f48e3fba5adef09f685743a5f87ac539d35a.jar" />
+    </item>
+    <item
+        jar="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/pre-dexed/release/classes-eae567d39dedd5f7351c463939411fc0397616f5.jar" />
     </item>
     <item
         jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
@@ -44,13 +107,6 @@
         <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/pre-dexed/debug/classes-ef453e854ef3d56b54ce3d6a283cfee234cebc5d.jar" />
     </item>
     <item
-        jar="/Users/fede/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-beb498db2dea82b98dafc6f82c97bc57383250f3.jar" />
-    </item>
-    <item
         jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -58,11 +114,25 @@
         <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/pre-dexed/release/classes-e9c2c0964770b6a925df5da0edabe45c74a89b26.jar" />
     </item>
     <item
-        jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jar="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
-        <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/pre-dexed/release/classes-82e5754cd29e42d1471815cfcb13ec08d07ff254.jar" />
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/pre-dexed/release/classes-b2c3a8633fd37b4c2b1c082f1fe508bf1e81ab42.jar" />
+    </item>
+    <item
+        jar="/Users/fede/fedeGit/Android_Sample/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/mobile/build/intermediates/pre-dexed/debug/classes-bad86b658b4b0d430769e9f73a1736dbd8a5d2f9.jar" />
+    </item>
+    <item
+        jar="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/pre-dexed/release/classes-0afde176d90a271351667676ac962629b41648e8.jar" />
     </item>
     <item
         jar="/Users/fede/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
@@ -72,11 +142,11 @@
         <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/pre-dexed/release/support-annotations-21.0.0-8056191593bdd5e96511a79ddd7541cd1299b5e6.jar" />
     </item>
     <item
-        jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/fede/DEVELOPMENT/Android/PlaceMarks/mobile/build/intermediates/pre-dexed/debug/classes-f3fdcf6aaf8ed921ba7f110f43781d7af9f23c0f.jar" />
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/fede/fedeGit/Android_Sample/wear/build/intermediates/pre-dexed/release/internal_impl-21.0.0-baf9152c7a6d6591aa5c4d0aa3e8b857a554d50b.jar" />
     </item>
     <item
         jar="/Users/fede/DEVELOPMENT/Android/PlaceMarks/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
