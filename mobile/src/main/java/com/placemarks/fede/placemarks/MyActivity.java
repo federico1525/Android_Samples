@@ -22,6 +22,8 @@ public class MyActivity extends ActionBarActivity {
     private int mCurrentIndex = 0;
 
 
+    // modifiction to check git
+
     // creating an array of TrueFalse objects -
     // to create I call the TrueFalso costructor several times and returned objects are stored in the array
     private TrueFalse[] mQuestionBank = new TrueFalse[] {
